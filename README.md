@@ -4,9 +4,9 @@
  
  - Eu sou desenvolvedor Full-Stack; 
  - Atualmente estou aprendendo uma nova tecnologia: .Net Core; 
- - Atualmente estou desenvolvendo habilidades de Front-end;
- - Apreciador de cinema, Marvel é melhor que DC; 
- - Apreciador da cultura japonesa, em especial: Comidas e Animes;
+ - Desenvolvendo novas habilidades de Front-end;
+ - Apreciador de cinema, Marvel é melhor que DC.
+ - Gosto da cultura japonesa, em especial: Comidas e Animes;
   
   ---- 
   

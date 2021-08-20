@@ -25,7 +25,7 @@
  <div style="display: inline_block">  
   <img align="center" alt="Robert-Studio" height="30" width="30" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png">    
   <img align="center" alt="Robert-StudioCode" height="30" width="30" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Code_icon-icons.com_56584.png">      
-  <img align="center" alt="Robert-SQL" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">     
+  <img align="center" alt="Robert-SQL" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/mysqlworkbench_102952.png">     
   <img align="center" alt="Robert-Trello" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/trello_logo_icon_147221.png">
  </div>
   

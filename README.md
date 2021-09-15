@@ -3,7 +3,7 @@
 ## Olá. Eu sou Robert Albert
  
  - Eu sou desenvolvedor Full-Stack; 
- - Atualmente estou aprendendo uma nova tecnologia: .Net Core; 
+ - Atualmente estou aprendendo uma nova tecnologia: Flutter; 
  - Desenvolvendo novas habilidades de Front-end;
  - Apreciador de cinema, Marvel é melhor que DC.
  - Gosto da cultura japonesa, em especial: Comidas e Animes;

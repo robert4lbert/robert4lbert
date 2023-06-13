@@ -3,7 +3,7 @@
 ## Olá. Eu sou Robert Albert
  
  - Eu sou desenvolvedor Full-Stack; 
- - Atualmente estou aprendendo uma nova tecnologia: Integradores e Cloud Services; 
+ - Atualmente estou aprendendo uma nova tecnologia: Big Data e Inteligência Competitiva; 
  - Desenvolvendo novas habilidades de SqlServer;
  - Apreciador de cinema, Marvel é melhor que DC.
  - Gosto da cultura japonesa, em especial: Comidas e Animes;

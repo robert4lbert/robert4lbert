@@ -7,6 +7,7 @@
  - Desenvolvendo novas habilidades de SqlServer;
  - Apreciador de cinema, Marvel é melhor que DC.
  - Gosto da cultura japonesa, em especial: Comidas e Animes;
+ - ### Meus commmits são private
   
   ---- 
   
@@ -36,11 +37,4 @@
 </div>
  
  ---- 
- ## ✨ Informações sobre minha conta GitHub
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert4lbert&layout=compact&langs_count=7&theme=dark"/>
- </div>
- <div>  
-  <a href="https://github.com/robert4lbert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robert4lbert&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- </div>
+
